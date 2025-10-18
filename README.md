@@ -5,6 +5,7 @@ This project is in the alpha stage, very early development. Please let me know a
 
 ## Reference
 This project is heavily inspired by "Neuro-Sama" created by Vedal.
+
 It is also inspired by "Amadeus" from the fiction "Steins;Gate"
 
 ## Introduction
