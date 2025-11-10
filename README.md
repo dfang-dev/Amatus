@@ -1,4 +1,4 @@
-# Amatus## Note
+# Amatus
 This project is in the alpha stage, very early development. Please let me know any suggestions you may have.
 
 ## Reference
@@ -18,3 +18,4 @@ My goal is to make a virtual connection feel "human-like". Through this project 
 Amatus will take the form of a 3D rendered model which includes facial expressions and lip syncing.
 
 My goal is to make a virtual connection feel "human-like". Through this project I hope to help people overcome their speaking limitations through speaking to Amatus, and slowly gain confidence in communicating with others!
+
