@@ -3,11 +3,13 @@ This project is in the alpha stage, very early development. Please let me know a
 
 ## Reference
 This project is inspired by:
+
 -- "Neuro-Sama" created by Vedal.
+
 -- "Amadeus" from the fiction "Steins;Gate"
 
 ## Introduction
-Amatus is a real time, fully responsive AI powered by OpenAI's LLM. It is built with Python and designed to retain memory of conversations which introduces evolving dialogue.
+Amatus is a real time, fully responsive AI powered by Ollama. It is built with Python and is hosted locally, designed to retain memory of conversations.
 
 Amatus will take the form of a 3D rendered model which includes facial expressions and lip syncing.
 
