@@ -1,5 +1,5 @@
-# Ignore virtual environments
-venv/
 AmatusAlpha/
-*.pyc
 __pycache__/
+*.pyc
+.vscode/
+.env
